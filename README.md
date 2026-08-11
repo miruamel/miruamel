@@ -18,8 +18,6 @@
 | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miruamel&theme=github_dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miruamel&theme=github_dark) |
 |:--:|:--:|
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=miruamel&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=A855F7&currStreakNum=6C63FF&sideNum=8B5CF6&currStreakLabel=6C63FF&sideNums=8B5CF6&stroke=0d1117&type=ring)
-
 ---
 
 ## 🧠 About Me
@@ -85,7 +83,6 @@ impl Miruamel {
 
 ---
 
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=github_dark&bg_color=0d1117&hide_border=true&area=true&area_color=A855F7&line=6C63FF&point=8B5CF6)
@@ -95,6 +92,12 @@ impl Miruamel {
 ## 🎯 Productivity Stats
 
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miruamel&theme=github_dark&utcOffset=7)
+
+---
+
+## 💭 Programming Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&animation=true&textColor=58a6ff)
 
 ---
 
