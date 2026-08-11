@@ -1,106 +1,135 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    🤖 MIRUAMEL 🤖                               -->
+<!--             AI Framework & Tooling Engineer                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there,+I'm+Miruamel!;AI/ML+Enthusiast;Building+the+Future+with+AI" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=6C63FF&center=true&vCenter=true&random=false&width=750&lines=Hi+there%2C+I%27m+Miruamel!;AI+Framework+%26+Tooling+Engineer;Building+the+Future+of+AI;Rust+%7C+Python+%7C+TypeScript)
 
-<a href="https://github.com/miruamel">
-  <img src="https://komarev.com/ghpvc/?username=miruamel&label=Profile%20Views&color=0e75b6&style=flat" alt="miruamel" />
-</a>
+[![Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=6C63FF,8B5CF6,A855F7&height=200&section=header&text=Miruamel&fontSize=70&animation=blink&fontColor=ffffff)](https://github.com/miruamel)
 
-</div>
+[![Profile Views](https://komarev.com/ghpvc/?username=miruamel&label=Profile%20Views&color=6C63FF&style=for-the-badge&animation=count)](https://github.com/miruamel)
 
 ---
 
-### 🧠 About Me
+## 📊 GitHub Stats
 
-```python
-class Miruamel:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.location = "Indonesia 🇮🇩"
-        self.interests = ["Deep Learning", "NLP", "LLMs", "Computer Vision"]
-        self.currently = "Building intelligent systems"
-        
-    def say_hi(self):
-        return "Thanks for stopping by! Let's build something amazing together."
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miruamel&theme=github_dark)
+
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miruamel&theme=github_dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miruamel&theme=github_dark) |
+|:--:|:--:|
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=miruamel&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=A855F7&currStreakNum=6C63FF&sideNum=8B5CF6&currStreakLabel=6C63FF&sideNums=8B5CF6&stroke=0d1117&type=ring)
+
+---
+
+## 🧠 About Me
+
+```rust
+struct Miruamel {
+    role: &'static str,
+    location: &'static str,
+    focus: Vec<&'static str>,
+    building: &'static str,
+}
+
+impl Miruamel {
+    fn new() -> Self {
+        Self {
+            role: "AI Framework & Tooling Engineer",
+            location: "Indonesia 🇮🇩",
+            focus: vec![
+                "AI Agents",
+                "AI Frameworks",
+                "Tooling",
+                "Infrastructure"
+            ],
+            building: "Production-ready AI tools and frameworks",
+        }
+    }
+    
+    fn say_hi(&self) -> &str {
+        "Thanks for stopping by! Let's build something amazing together."
+    }
+}
 ```
 
+### 🚀 Building the future of AI | 🔧 Open Source Tools & Frameworks | 📈 Deep Vertical Architecture
+
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Featured Projects
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miruamel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miruamel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![Miruamel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=tokyonight&hide_border=true&color=6C63FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+| Project | Description | Stack | Stars |
+|:--|:--|:--|:--|
+| **[Xiaoyi](https://github.com/miruamel/Xiaoyi)** | 🤖 AI Agent Framework with Deep Vertical Architecture | Rust · AI · Agents | ⭐ 1 |
 
 ---
 
-### 🏆 Stats
+## 📈 Activity Graph
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miruamel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6C63FF&icon_color=A855F7)
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=github_dark&bg_color=0d1117&hide_border=true&area=true&area_color=A855F7&line=6C63FF&point=8B5CF6)
 
 ---
 
-### 🐍 Contribution Graph
+## 🏆 GitHub Profile Trophies
 
-<div align="center">
-
-![Miruamel's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=miruamel&theme=tokyonight&hide_border=true)
-
-</div>
+![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&margin-w=12&margin-h=12&column=8)
 
 ---
 
-### 📫 Let's Connect
+## 📊 GitHub Analytics
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miruamel)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miruamel@example.com)
-
-</div>
+![Miruamel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=tokyonight&hide_border=true&color=6C63FF)
 
 ---
 
-<div align="center">
+## 🎯 Productivity Stats
 
-### 💡 *"The best way to predict the future is to invent it."* — Alan Kay
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=miruamel&theme=github_dark&utcOffset=7)
 
-<img src="https://raw.githubusercontent.com/miruamel/miruamel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+---
 
-</div>
+## 🤝 Open To
 
+![Open to Freelance](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Consulting%20%7C%20Collaboration-blue?style=for-the-badge)
+![Open to Open Source](https://img.shields.io/badge/Open%20to-Open%20Source%20%7C%20Code%20Review%20%7C%20Mentoring-brightgreen?style=for-the-badge)
+![Open to Research](https://img.shields.io/badge/Open%20to-Research%20%7C%20Papers%20%7C%20Experiments-orange?style=for-the-badge)
 
+---
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miruamel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miruamel@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miruamel)
+
+---
+
+[![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=6C63FF,8B5CF6,A855F7&height=100&section=footer&animation=fadeIn&fontColor=ffffff)](https://github.com/miruamel)
+
+### ⭐ Thanks for visiting! ⭐
+
+Feel free to explore my repositories and do not hesitate to reach out!
+
+*Last updated: August 2026*
+
+[![Total Views](https://komarev.com/ghpvc/?username=miruamel&label=total%20profile%20views&color=6C63FF&style=flat)](https://github.com/miruamel)
