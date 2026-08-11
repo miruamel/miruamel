@@ -81,12 +81,19 @@ impl Miruamel {
 | Project | Description | Stack | Stars |
 |:--|:--|:--|:--|
 | **[Xiaoyi](https://github.com/miruamel/Xiaoyi)** | 🤖 AI Agent Framework with Deep Vertical Architecture | Rust · AI · Agents | ⭐ 1 |
+| **[miruamel](https://github.com/miruamel/miruamel)** | ✨ GitHub Profile README | Markdown · GitHub | ⭐ 1 |
 
 ---
 
 ## 🏆 GitHub Profile Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&margin-w=12&margin-h=12&column=8)
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=github_dark&bg_color=0d1117&hide_border=true&area=true&area_color=A855F7&line=6C63FF&point=8B5CF6)
 
 ---
 
