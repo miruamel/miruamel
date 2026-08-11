@@ -85,11 +85,6 @@ impl Miruamel {
 
 ---
 
-## 🏆 GitHub Profile Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&margin-w=12&margin-h=12&column=8)
-
----
 
 ## 📈 Activity Graph
 
