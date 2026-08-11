@@ -84,21 +84,9 @@ impl Miruamel {
 
 ---
 
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=github_dark&bg_color=0d1117&hide_border=true&area=true&area_color=A855F7&line=6C63FF&point=8B5CF6)
-
----
-
 ## 🏆 GitHub Profile Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=onedark&margin-w=12&margin-h=12&column=8)
-
----
-
-## 📊 GitHub Analytics
-
-![Miruamel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=miruamel&theme=tokyonight&hide_border=true&color=6C63FF)
 
 ---
 
@@ -121,6 +109,7 @@ impl Miruamel {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miruamel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miruamel@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miruamel)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miruamel)
 
 ---
 
