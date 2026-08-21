@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    🤖 MIRUAMEL 🤖                               -->
 <!--             AI Framework & Tooling Engineer                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -15,27 +15,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Navigation
 
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miruamel&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miruamel&theme=github_dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miruamel&theme=github_dark) |
-|:--:|:--:|
-
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=miruamel&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=A855F7&currStreakNum=6C63FF&sideNum=8B5CF6&currStreakLabel=6C63FF&sideNums=8B5CF6&stroke=0d1117&type=ring)
-
-</div>
+- [About Me](#-about-me)
+- [Tech Stack](#️-tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Recent Activity](#-recent-activity)
+- [Open To](#-open-to)
+- [Connect](#-connect-with-me)
 
 ---
 
@@ -63,7 +51,7 @@ impl Miruamel {
             building: "Production-ready AI tools and frameworks",
         }
     }
-    
+
     fn say_hi(&self) -> &str {
         "Thanks for stopping by! Let's build something amazing together."
     }
@@ -72,7 +60,7 @@ impl Miruamel {
 
 <div align="center">
 
-### 🚀 Building the future of AI | 🔧 Open Source Tools & Frameworks | 📈 Deep Vertical Architecture
+### 🚀 Building the future of AI &nbsp;|&nbsp; 🔧 Open Source Tools & Frameworks &nbsp;|&nbsp; 📈 Deep Vertical Architecture
 
 </div>
 
@@ -82,9 +70,17 @@ impl Miruamel {
 
 <div align="center">
 
+**Languages**
+<br/>
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-000000?style=for-the-badge&logo=zig&logoColor=white)
+
+**AI & Infra**
+<br/>
+
 ![LLMs](https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -101,9 +97,48 @@ impl Miruamel {
 
 <div align="center">
 
-| Project | Description | Stack | Stars |
+<!--START_SECTION:featured-->
+| Project | Description | Language | Stars |
 |:--|:--|:--|:--|
-| **[Xiaoyi](https://github.com/miruamel/Xiaoyi)** | 🤖 AI Agent Framework with Deep Vertical Architecture | Rust · AI · Agents | ⭐ 1 |
+| **[yuxi](https://github.com/miruamel/yuxi)** | Yuxi (玉溪) — Autonomous Software Evolution Engine | Zig | ⭐ 1 |
+<!--END_SECTION:featured-->
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miruamel&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miruamel&theme=github_dark) | ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=miruamel&theme=github_dark) |
+|:--:|:--:|
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=miruamel&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=A855F7&currStreakNum=6C63FF&sideNum=8B5CF6&currStreakLabel=6C63FF&sideNums=8B5CF6&stroke=0d1117&type=ring)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=github_dark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/miruamel)
+
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<div align="center">
+
+<!--START_SECTION:recent-->
+- 🔨 **[yuxi](https://github.com/miruamel/yuxi)** — Yuxi (玉溪) — Autonomous Software Evolution Engine _(Zig)_
+<!--END_SECTION:recent-->
 
 </div>
 
@@ -169,7 +204,9 @@ impl Miruamel {
 
 Feel free to explore my repositories and do not hesitate to reach out!
 
-*Last updated: August 2026*
+*Last updated: <!--START_SECTION:last_updated-->
+August 2026
+<!--END_SECTION:last_updated-->*
 
 [![Total Views](https://komarev.com/ghpvc/?username=miruamel&label=total%20profile%20views&color=6C63FF&style=flat)](https://github.com/miruamel)
 
