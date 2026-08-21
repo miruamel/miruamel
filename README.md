@@ -17,13 +17,13 @@
 
 ## 🧭 Navigation
 
-- [About Me](#-about-me)
-- [Tech Stack](#️-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Recent Activity](#-recent-activity)
-- [Open To](#-open-to)
-- [Connect](#-connect-with-me)
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [GitHub Stats](#github-stats)
+- [Recent Activity](#recent-activity)
+- [Open To](#open-to)
+- [Connect](#connect-with-me)
 
 ---
 
@@ -125,8 +125,6 @@ impl Miruamel {
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=miruamel&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D&ring=6C63FF&fire=A855F7&currStreakNum=6C63FF&sideNum=8B5CF6&currStreakLabel=6C63FF&sideNums=8B5CF6&stroke=0d1117&type=ring)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=miruamel&theme=github_dark&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/miruamel)
 
 </div>
 
