@@ -100,7 +100,8 @@ impl Miruamel {
 <!--START_SECTION:featured-->
 | Project | Description | Language | Stars |
 |:--|:--|:--|:--|
-| **[yuxi](https://github.com/miruamel/yuxi)** | Yuxi (玉溪) — Autonomous Software Evolution Engine | Zig | ⭐ 1 |
+| **[xuan](https://github.com/miruamel/xuan)** | Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. | TypeScript | ⭐ 1 |
+| **[zhang](https://github.com/miruamel/zhang)** | Zhang (张) - PyTorch-like ML/autograd library in Zig 0.16 | Zig | ⭐ 1 |
 <!--END_SECTION:featured-->
 
 </div>
@@ -135,7 +136,8 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:recent-->
-- 🔨 **[yuxi](https://github.com/miruamel/yuxi)** — Yuxi (玉溪) — Autonomous Software Evolution Engine _(Zig)_
+- 🔨 **[xuan](https://github.com/miruamel/xuan)** — Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. _(TypeScript)_
+- 🔨 **[zhang](https://github.com/miruamel/zhang)** — Zhang (张) - PyTorch-like ML/autograd library in Zig 0.16 _(Zig)_
 <!--END_SECTION:recent-->
 
 </div>
