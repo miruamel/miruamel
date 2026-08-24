@@ -101,7 +101,7 @@ impl Miruamel {
 | Project | Description | Language | Stars |
 |:--|:--|:--|:--|
 | **[xuan](https://github.com/miruamel/xuan)** | Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. | TypeScript | ⭐ 1 |
-| **[zhang](https://github.com/miruamel/zhang)** | Zhang (张) - PyTorch-like ML/autograd library in Zig 0.16 | Zig | ⭐ 1 |
+| **[shiyu](https://github.com/miruamel/shiyu)** | CLI DevTool that ends Configuration Fatigue for JS/TS projects via AST-safe patching and cross-tool sync. | TypeScript | ⭐ 0 |
 <!--END_SECTION:featured-->
 
 </div>
@@ -136,8 +136,8 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:recent-->
+- 🔨 **[shiyu](https://github.com/miruamel/shiyu)** — CLI DevTool that ends Configuration Fatigue for JS/TS projects via AST-safe patching and cross-tool sync. _(TypeScript)_
 - 🔨 **[xuan](https://github.com/miruamel/xuan)** — Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. _(TypeScript)_
-- 🔨 **[zhang](https://github.com/miruamel/zhang)** — Zhang (张) - PyTorch-like ML/autograd library in Zig 0.16 _(Zig)_
 <!--END_SECTION:recent-->
 
 </div>
