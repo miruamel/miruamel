@@ -100,9 +100,9 @@ impl Miruamel {
 <!--START_SECTION:featured-->
 | Project | Description | Language | Stars |
 |:--|:--|:--|:--|
+| **[xingyu](https://github.com/miruamel/xingyu)** | Terminal AI coding agent: prompt in, verified codebase out. Bun-native, mock-first, spend-capped. | TypeScript | ⭐ 1 |
 | **[xuan](https://github.com/miruamel/xuan)** | Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. | TypeScript | ⭐ 1 |
 | **[shiyu](https://github.com/miruamel/shiyu)** | CLI DevTool ending Configuration Fatigue — AST-safe path-alias sync from tsconfig to vite / vitest / webpack / rollup / eslint | TypeScript | ⭐ 1 |
-| **[xingyu](https://github.com/miruamel/xingyu)** | Terminal AI coding agent: prompt in, verified codebase out. Bun-native, mock-first, spend-capped. | TypeScript | ⭐ 0 |
 <!--END_SECTION:featured-->
 
 </div>
@@ -137,9 +137,9 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:recent-->
+- 🔨 **[xingyu](https://github.com/miruamel/xingyu)** — Terminal AI coding agent: prompt in, verified codebase out. Bun-native, mock-first, spend-capped. _(TypeScript)_
 - 🔨 **[xuan](https://github.com/miruamel/xuan)** — Multi-provider LLM gateway: OpenAI-compatible chat endpoint with per-provider request/response translation and automatic fallback. _(TypeScript)_
 - 🔨 **[shiyu](https://github.com/miruamel/shiyu)** — CLI DevTool ending Configuration Fatigue — AST-safe path-alias sync from tsconfig to vite / vitest / webpack / rollup / eslint _(TypeScript)_
-- 🔨 **[xingyu](https://github.com/miruamel/xingyu)** — Terminal AI coding agent: prompt in, verified codebase out. Bun-native, mock-first, spend-capped. _(TypeScript)_
 <!--END_SECTION:recent-->
 
 </div>
