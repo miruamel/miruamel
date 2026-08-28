@@ -100,8 +100,8 @@ impl Miruamel {
 <!--START_SECTION:featured-->
 | Project | Description | Language | Stars |
 |:--|:--|:--|:--|
-| **[mach](https://github.com/miruamel/mach)** | MACH — Multi-Agent Collaboration Hub. Platform kolaborasi multi-agen dengan shared memory, message bus terstruktur, orchestrator, dan observability. | Mermaid | ⭐ 1 |
-| **[audit-log](https://github.com/miruamel/audit-log)** | Autonomous audit trail for miruamel/* repositories (transparency log) | — | ⭐ 0 |
+| **[mach](https://github.com/miruamel/mach)** | MACH — Multi-Agent Collaboration Hub. Platform kolaborasi multi-agen dengan shared memory, message bus terstruktur, orchestrator, dan observability. | TypeScript | ⭐ 1 |
+| **[audit-log](https://github.com/miruamel/audit-log)** | Master autonomous audit log for miruamel/* (excludes profile README). Mandate v2.0 §2. | — | ⭐ 0 |
 <!--END_SECTION:featured-->
 
 </div>
@@ -136,8 +136,8 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:recent-->
-- 🔨 **[mach](https://github.com/miruamel/mach)** — MACH — Multi-Agent Collaboration Hub. Platform kolaborasi multi-agen dengan shared memory, message bus terstruktur, orchestrator, dan observability. _(Mermaid)_
-- 🔨 **[audit-log](https://github.com/miruamel/audit-log)** — Autonomous audit trail for miruamel/* repositories (transparency log)
+- 🔨 **[mach](https://github.com/miruamel/mach)** — MACH — Multi-Agent Collaboration Hub. Platform kolaborasi multi-agen dengan shared memory, message bus terstruktur, orchestrator, dan observability. _(TypeScript)_
+- 🔨 **[audit-log](https://github.com/miruamel/audit-log)** — Master autonomous audit log for miruamel/* (excludes profile README). Mandate v2.0 §2.
 <!--END_SECTION:recent-->
 
 </div>
