@@ -98,9 +98,7 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:featured-->
-| Project | Description | Language | Stars |
-|:--|:--|:--|:--|
-| **[zhi](https://github.com/miruamel/zhi)** | Autonomous terminal coding agent. 15-critic plant, weighted Pareto gate, bounded retry, trunk-based PRs. Bun-native + Zig WASM. MIT. | TypeScript | ⭐ 2 |
+_No public projects yet — stay tuned!_
 <!--END_SECTION:featured-->
 
 </div>
@@ -135,7 +133,7 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:recent-->
-- 🔨 **[zhi](https://github.com/miruamel/zhi)** — Autonomous terminal coding agent. 15-critic plant, weighted Pareto gate, bounded retry, trunk-based PRs. Bun-native + Zig WASM. MIT. _(TypeScript)_
+_Nothing pushed recently._
 <!--END_SECTION:recent-->
 
 </div>
