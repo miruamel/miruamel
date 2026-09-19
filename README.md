@@ -98,7 +98,9 @@ impl Miruamel {
 <div align="center">
 
 <!--START_SECTION:featured-->
-_No public projects yet — stay tuned!_
+| Project | Description | Language | Stars |
+|:--|:--|:--|:--|
+| **[mindral](https://github.com/miruamel/mindral)** | Mindral — game simulasi industri dan manajemen pabrik. | Java | ⭐ 1 |
 <!--END_SECTION:featured-->
 
 </div>
@@ -133,7 +135,7 @@ _No public projects yet — stay tuned!_
 <div align="center">
 
 <!--START_SECTION:recent-->
-_Nothing pushed recently._
+- 🔨 **[mindral](https://github.com/miruamel/mindral)** — Mindral — game simulasi industri dan manajemen pabrik. _(Java)_
 <!--END_SECTION:recent-->
 
 </div>
